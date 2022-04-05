@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\alexr\source\repos\SnakeBySilvan\SnakeBySilvan\main.cpp(175,42): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
+  SnakeBySilvan.vcxproj -> C:\Users\alexr\source\repos\SnakeBySilvan\Debug\SnakeBySilvan.exe
